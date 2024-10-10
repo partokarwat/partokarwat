@@ -2,7 +2,7 @@
 
 I'm Parto, an Android developer.
 
-Feel free to look at my work example [Android showcase app](https://github.com/partokarwat/showcase)
+Feel free to look at my work example [Android showcase app](https://github.com/partokarwat/showcase-app)
 
 📫 How to reach me: partokarwat@gmail.com <br/>
 😄 Pronouns: she/her <br/>
