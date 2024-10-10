@@ -2,7 +2,7 @@
 
 I'm Parto, an Android developer.
 
-<!--For an example of my work please take a look at my [Android showcase project](https://github.com/partokarwat/showcase-app)-->
+<!-- Feel free to look at my work example [Android showcase project](https://github.com/partokarwat/showcase-app) -->
 
 <!--
 **partokarwat/partokarwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
