@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Parto, an Android Software developer.
+I'm Parto, an Android software developer.
 
 Feel free to look at my work example [Android showcase app](https://github.com/partokarwat/showcase-app)
 
